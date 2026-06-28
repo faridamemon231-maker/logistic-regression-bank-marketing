@@ -25,4 +25,12 @@ This project uses Logistic Regression to predict whether a customer will subscri
 - Binary Classification Problem
 - Effective Feature Selection and Data Preprocessing
 
-## Project Structure
+## 👩‍💻 Author
+
+### Aisha Memon
+
+Data Science | Machine Learning | Artificial Intelligence
+
+Passionate about Machine Learning, Data Analytics, and AI.
+
+⭐ If you found this project useful, please give it a star.
