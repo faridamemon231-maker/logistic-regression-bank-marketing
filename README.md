@@ -33,4 +33,6 @@ Data Science | Machine Learning | Artificial Intelligence
 
 Passionate about Machine Learning, Data Analytics, and AI.
 
+linkdin : https://www.linkedin.com/in/aaisha-memon-583453374/
+
 ⭐ If you found this project useful, please give it a star.
